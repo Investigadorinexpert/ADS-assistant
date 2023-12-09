@@ -35,6 +35,8 @@ Esto se logra mediante dos procesos clave:
   el ADS sobre un producto o servicio, afinando así la estrategia de la campaña publicitaria y la
   efectividad del ADS.
 
+Se puede entender como una Análisis Factorial Exploratorio y posteriormente un Análisis Factorial Confirmatorio
+
 -------------------------------------------------------------------------------------------------------------------------------------------------
 # Introduction
 
